@@ -144,6 +144,18 @@ pip install numpy pandas matplotlib seaborn scikit-learn scipy kmedoids pycluste
 
 Trabalho desenvolvido para a disciplina **Ciência de Dados II**.
 
+## Integrantes
+
+| Nome |
+|------|
+| Eduardo de Oliveira Araujo |
+| Eduardo Oliveira Marson |
+| Hugo Alves Viana |
+| José Vitor Oliveira Marson |
+| Maria Clara Sailva Borges|
+
+
+
 ---
 
 ## Licença
